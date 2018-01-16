@@ -1,0 +1,82 @@
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Window1.g.cs
+c:\users\зейтынб\documents\visual studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Window1.baml
+C:\Users\ЗейтынБ\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Window2.g.cs
+C:\Users\ЗейтынБ\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\obj\Debug\Window2.baml
+C:\Users\ЗейтынБ\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ЗейтынБ\Documents\Visual Studio 2017\Projects\WpfApp1\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\Логин\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Admin\Downloads\Логин\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Admin\Downloads\Логин\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Admin\Downloads\Логин\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Admin\Downloads\Логин\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Admin\Downloads\Логин\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Admin\Downloads\Логин\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Admin\Downloads\Логин\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Downloads\Логин\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Downloads\Логин\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\Admin\Downloads\Логин\WpfApp1\obj\Debug\Window2.g.cs
+C:\Users\Admin\Downloads\Логин\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Admin\Downloads\Логин\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Admin\Downloads\Логин\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Admin\Downloads\Логин\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Admin\Downloads\Логин\WpfApp1\obj\Debug\Window1.baml
+C:\Users\Admin\Downloads\Логин\WpfApp1\obj\Debug\Window2.baml
+C:\Users\Admin\Downloads\Логин\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Admin\Downloads\Логин\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Admin\Downloads\Логин\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\ЗейтынБ\Downloads\Login\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ЗейтынБ\Downloads\Login\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ЗейтынБ\Downloads\Login\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ЗейтынБ\Downloads\Login\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ЗейтынБ\Downloads\Login\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ЗейтынБ\Downloads\Login\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\ЗейтынБ\Downloads\Login\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ЗейтынБ\Downloads\Login\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\ЗейтынБ\Downloads\Login\WpfApp1\obj\Debug\Window2.g.cs
+C:\Users\ЗейтынБ\Downloads\Login\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ЗейтынБ\Downloads\Login\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ЗейтынБ\Downloads\Login\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ЗейтынБ\Downloads\Login\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ЗейтынБ\Downloads\Login\WpfApp1\obj\Debug\Window1.baml
+C:\Users\ЗейтынБ\Downloads\Login\WpfApp1\obj\Debug\Window2.baml
+C:\Users\ЗейтынБ\Downloads\Login\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ЗейтынБ\Downloads\Login\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ЗейтынБ\Downloads\Login\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\ЗейтынБ\Downloads\Login\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ЗейтынБ\Downloads\Login\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Admin\Downloads\Логин\WpfApp1\obj\Debug\NewImage.g.cs
+C:\Users\Admin\Downloads\Логин\WpfApp1\obj\Debug\NewImage.baml
+C:\Users\ЗейтынБ\Downloads\Authorization\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\ЗейтынБ\Downloads\Authorization\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\ЗейтынБ\Downloads\Authorization\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\ЗейтынБ\Downloads\Authorization\WpfApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ЗейтынБ\Downloads\Authorization\WpfApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ЗейтынБ\Downloads\Authorization\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\ЗейтынБ\Downloads\Authorization\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\ЗейтынБ\Downloads\Authorization\WpfApp1\obj\Debug\Window1.g.cs
+C:\Users\ЗейтынБ\Downloads\Authorization\WpfApp1\obj\Debug\Window2.g.cs
+C:\Users\ЗейтынБ\Downloads\Authorization\WpfApp1\obj\Debug\App.g.cs
+C:\Users\ЗейтынБ\Downloads\Authorization\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\ЗейтынБ\Downloads\Authorization\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\ЗейтынБ\Downloads\Authorization\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\ЗейтынБ\Downloads\Authorization\WpfApp1\obj\Debug\Window1.baml
+C:\Users\ЗейтынБ\Downloads\Authorization\WpfApp1\obj\Debug\Window2.baml
+C:\Users\ЗейтынБ\Downloads\Authorization\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\ЗейтынБ\Downloads\Authorization\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\ЗейтынБ\Downloads\Authorization\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\ЗейтынБ\Downloads\Authorization\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\ЗейтынБ\Downloads\Authorization\WpfApp1\obj\Debug\WpfApp1.pdb
